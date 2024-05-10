@@ -11,3 +11,4 @@ El objetivo de esta sesión será coordinar en directo una serie de clone, commi
 
 -Verde oscuro :trollface:
 - Naranja :smile:
+- Morado :anguished:
