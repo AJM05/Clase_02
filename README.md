@@ -1,6 +1,6 @@
 # Clase 02
 El objetivo de esta sesión será coordinar en directo una serie de clone, commits y push. Como resultado, el repositorio deberá constar de:
-- 1 script por equipo que printee los nombres de los integrantes 1 a 1.
+- 1 script por equipo denominado "Color_integrantes.R" que printee los nombres de los integrantes 1 a 1.
 - 1 commit por miembro del equipo.
 - 1 pull request por miembro del equipo
 ## Requisitos
