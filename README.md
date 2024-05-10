@@ -10,3 +10,4 @@ El objetivo de esta sesión será coordinar en directo una serie de clone, commi
 - Cuando 1 equipo esté completo cualquiera de las personas que lo integren deberán añadir el color de su equipo en el readme y un emoticono a su eleccción. :fleur_de_lis:
 
 -Verde oscuro :trollface:
+- Naranja :smile:
