@@ -8,3 +8,8 @@ El objetivo de esta sesión será coordinar en directo una serie de clone, commi
 - Cada miembro solo podrá poner nombre printeado en el script.
 - los request solo podrán ser aceptados por miembros distintos a la persona que haya hecho la petición.
 - Cuando 1 equipo esté completo cualquiera de las personas que lo integren deberán añadir el color de su equipo en el readme y un emoticono a su eleccción. :fleur_de_lis:
+
+-Verde oscuro :trollface:
+- Naranja :smile:
+- Morado :anguished:
+- Verde Claro 🌲
